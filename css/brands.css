@@ -205,6 +205,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Bilibili */
+.button.button-bilibili {
+  color: #FF6699;
+  background-color: #FFFFFF;
+  border: 3px solid #FF6699;
+}
+.button.button-behance:hover,
+.button.button-behance:focus {
+  filter: brightness(90%);
+}
+
 /* Bluesky */
 .button.button-bluesky {
   color: #000000;
@@ -1090,6 +1101,18 @@ button:hover,
 .button.button-x:focus {
   filter: brightness(90%);
 }
+
+/* Xing */
+.button.button-xhs {
+  color: #ff2741;
+  background-color: #ffffff;
+  border: 3px solid #ff2741;
+}
+.button.button-xing:hover,
+.button.button-xing:focus {
+  filter: brightness(90%);
+}
+
 
 /* Xing */
 .button.button-xing {
